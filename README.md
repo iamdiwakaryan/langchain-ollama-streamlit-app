@@ -23,13 +23,3 @@ This is a simple Streamlit-based chatbot that integrates [LangChain](https://www
 - DeepSeek Model via Ollama
 
 ---
-
-## 📦 Installation
-
-1. **Install Ollama**  
-   [Download Ollama](https://ollama.com/download) and install it for your OS.
-
-2. **Pull the DeepSeek model** (or any model you want to use):
-
-   ```bash
-   ollama pull deepseek-coder:1.3b
